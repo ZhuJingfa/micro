@@ -3,7 +3,7 @@ package run
 import (
 	"fmt"
 
-	"github.com/micro/micro/plugin"
+  "micro/micro/plugin"
 )
 
 var (

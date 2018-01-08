@@ -17,10 +17,10 @@ import (
 	"github.com/micro/go-micro"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
-	"github.com/micro/micro/internal/handler"
-	"github.com/micro/micro/internal/helper"
-	"github.com/micro/micro/internal/stats"
-	"github.com/micro/micro/plugin"
+  "micro/micro/internal/handler"
+  "micro/micro/internal/helper"
+  "micro/micro/internal/stats"
+  "micro/micro/plugin"
 	"github.com/pborman/uuid"
 )
 

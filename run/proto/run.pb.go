@@ -672,7 +672,7 @@ func (h *Service) Status(ctx context.Context, in *StatusRequest, out *StatusResp
 	return h.ServiceHandler.Status(ctx, in, out)
 }
 
-func init() { proto.RegisterFile("github.com/micro/micro/run/proto/run.proto", fileDescriptor0) }
+func init() { proto.RegisterFile("micro/micro/run/proto/run.proto", fileDescriptor0) }
 
 var fileDescriptor0 = []byte{
 	// 547 bytes of a gzipped FileDescriptorProto

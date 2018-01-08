@@ -21,10 +21,10 @@ import (
   "micro/go-micro/registry"
   "micro/go-micro/selector"
   "micro/go-micro/selector/cache"
-	"github.com/micro/micro/internal/handler"
-	"github.com/micro/micro/internal/helper"
-	"github.com/micro/micro/internal/stats"
-	"github.com/micro/micro/plugin"
+	"micro/micro/internal/handler"
+	"micro/micro/internal/helper"
+	"micro/micro/internal/stats"
+	"micro/micro/plugin"
 	"github.com/serenize/snaker"
 )
 

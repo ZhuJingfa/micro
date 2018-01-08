@@ -3,7 +3,7 @@ package web
 import (
 	"fmt"
 
-	"github.com/micro/micro/plugin"
+  "micro/micro/plugin"
 )
 
 var (

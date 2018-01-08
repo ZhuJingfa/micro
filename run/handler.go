@@ -6,7 +6,7 @@ import (
 	gorun "github.com/micro/go-run"
 	"golang.org/x/net/context"
 
-	proto "github.com/micro/micro/run/proto"
+  proto "micro/micro/run/proto"
 )
 
 type runtimeHandler struct {

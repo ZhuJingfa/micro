@@ -11,7 +11,7 @@ import (
 	"text/template"
 
 	"github.com/micro/cli"
-	tmpl "github.com/micro/micro/internal/template"
+  tmpl "micro/micro/internal/template"
 )
 
 type config struct {

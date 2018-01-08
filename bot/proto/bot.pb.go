@@ -217,7 +217,7 @@ func (h *Command) Exec(ctx context.Context, in *ExecRequest, out *ExecResponse) 
 	return h.CommandHandler.Exec(ctx, in, out)
 }
 
-func init() { proto.RegisterFile("github.com/micro/micro/bot/proto/bot.proto", fileDescriptor0) }
+func init() { proto.RegisterFile("micro/micro/bot/proto/bot.proto", fileDescriptor0) }
 
 var fileDescriptor0 = []byte{
 	// 241 bytes of a gzipped FileDescriptorProto

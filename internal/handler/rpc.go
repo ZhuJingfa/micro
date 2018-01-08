@@ -8,7 +8,7 @@ import (
 
   "micro/go-micro/cmd"
   "micro/go-micro/errors"
-	"github.com/micro/micro/internal/helper"
+  "micro/micro/internal/helper"
 )
 
 type rpcRequest struct {

@@ -14,10 +14,10 @@ import (
 	"github.com/micro/go-api/server"
 	"github.com/micro/go-log"
 	"github.com/micro/go-micro"
-	"github.com/micro/micro/internal/handler"
-	"github.com/micro/micro/internal/helper"
-	"github.com/micro/micro/internal/stats"
-	"github.com/micro/micro/plugin"
+  "micro/micro/internal/handler"
+  "micro/micro/internal/helper"
+  "micro/micro/internal/stats"
+  "micro/micro/plugin"
 )
 
 var (

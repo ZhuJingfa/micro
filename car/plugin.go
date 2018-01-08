@@ -3,7 +3,7 @@ package car
 import (
 	"fmt"
 
-	"github.com/micro/micro/plugin"
+  "micro/micro/plugin"
 )
 
 var (

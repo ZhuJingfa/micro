@@ -8,7 +8,7 @@ import (
 
 	"github.com/micro/cli"
   "micro/go-micro/cmd"
-	clic "github.com/micro/micro/internal/command/cli"
+  clic "micro/micro/internal/command/cli"
 
 	"golang.org/x/net/context"
 )

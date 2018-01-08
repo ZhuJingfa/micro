@@ -9,8 +9,8 @@ import (
   "micro/go-micro/cmd"
   "micro/go-micro/errors"
   "micro/go-micro/selector"
-	api "github.com/micro/micro/api/proto"
-	"github.com/micro/micro/internal/helper"
+	api "micro/micro/api/proto"
+	"micro/micro/internal/helper"
 )
 
 type apiHandler struct {

@@ -13,8 +13,8 @@ import (
   "micro/go-micro/cmd"
   "micro/go-micro/errors"
   "micro/go-micro/selector"
-	proto "github.com/micro/micro/internal/handler/proto"
-	"github.com/micro/micro/internal/helper"
+  proto "micro/micro/internal/handler/proto"
+  "micro/micro/internal/helper"
 )
 
 type rpcxHandler struct {

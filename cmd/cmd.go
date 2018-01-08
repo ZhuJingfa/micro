@@ -5,14 +5,14 @@ import (
 
 	ccli "github.com/micro/cli"
   "micro/go-micro/cmd"
-	"github.com/micro/micro/api"
-	"github.com/micro/micro/bot"
-	"github.com/micro/micro/car"
-	"github.com/micro/micro/cli"
-	"github.com/micro/micro/new"
-	"github.com/micro/micro/plugin"
-	"github.com/micro/micro/run"
-	"github.com/micro/micro/web"
+  "micro/micro/api"
+  "micro/micro/bot"
+  "micro/micro/car"
+  "micro/micro/cli"
+  "micro/micro/new"
+  "micro/micro/plugin"
+  "micro/micro/run"
+  "micro/micro/web"
 )
 
 var (
