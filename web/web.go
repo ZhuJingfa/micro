@@ -16,7 +16,7 @@ import (
 	"github.com/micro/cli"
 	"github.com/micro/go-api/server"
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro"
+	"micro/go-micro"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
   "micro/go-micro/selector"

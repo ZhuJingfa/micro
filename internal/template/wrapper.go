@@ -4,7 +4,7 @@ var (
 	WrapperAPI = `package client
 
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"micro/go-micro/server"
 	example "github.com/micro/examples/template/srv/proto/example"
 

@@ -13,7 +13,7 @@ import (
 	"github.com/micro/go-api/router"
 	"github.com/micro/go-api/server"
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro"
+  "micro/go-micro"
   "micro/micro/internal/handler"
   "micro/micro/internal/helper"
   "micro/micro/internal/stats"

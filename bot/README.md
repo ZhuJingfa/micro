@@ -212,7 +212,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"golang.org/x/net/context"
 
 	proto "github.com/micro/go-bot/proto"
