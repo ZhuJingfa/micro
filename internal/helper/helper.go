@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/micro/cli"
-	"github.com/micro/go-micro/metadata"
+  "micro/go-micro/metadata"
 
 	"golang.org/x/net/context"
 )

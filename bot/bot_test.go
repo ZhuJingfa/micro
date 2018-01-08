@@ -12,7 +12,7 @@ import (
 	"github.com/micro/go-bot/input"
 
 	"github.com/micro/go-micro"
-	"github.com/micro/go-micro/registry/mock"
+  "micro/go-micro/registry/mock"
 )
 
 type testInput struct {

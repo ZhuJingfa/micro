@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/errors"
+  "micro/go-micro/cmd"
+  "micro/go-micro/errors"
 	"github.com/micro/micro/internal/helper"
 )
 

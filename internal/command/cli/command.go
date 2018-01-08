@@ -11,10 +11,10 @@ import (
 	"time"
 
 	"github.com/micro/cli"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/cmd"
+  "micro/go-micro/registry"
 
-	proto "github.com/micro/go-micro/server/debug/proto"
+  proto "micro/go-micro/server/debug/proto"
 
 	"github.com/serenize/snaker"
 

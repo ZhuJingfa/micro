@@ -5,7 +5,7 @@ import (
 
 	"github.com/micro/go-api"
 	"github.com/micro/go-api/router"
-	"github.com/micro/go-micro/errors"
+  "micro/go-micro/errors"
 )
 
 type metaHandler struct {

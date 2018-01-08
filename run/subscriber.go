@@ -1,7 +1,7 @@
 package run
 
 import (
-	"github.com/micro/go-micro/errors"
+  "micro/go-micro/errors"
 	"golang.org/x/net/context"
 
 	proto "github.com/micro/micro/run/proto"

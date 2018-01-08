@@ -12,7 +12,7 @@ import (
 
 	"github.com/micro/go-api"
 	"github.com/micro/go-api/router"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/selector"
 )
 
 type proxy struct {

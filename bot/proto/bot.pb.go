@@ -21,8 +21,8 @@ import fmt "fmt"
 import math "math"
 
 import (
-	client "github.com/micro/go-micro/client"
-	server "github.com/micro/go-micro/server"
+  client "micro/go-micro/client"
+  server "micro/go-micro/server"
 	context "golang.org/x/net/context"
 )
 

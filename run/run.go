@@ -8,7 +8,7 @@ import (
 	"github.com/micro/cli"
 	"github.com/micro/go-log"
 	"github.com/micro/go-micro"
-	"github.com/micro/go-micro/client"
+  "micro/go-micro/client"
 
 	"github.com/micro/go-run"
 	"github.com/micro/go-run/runtime/go"

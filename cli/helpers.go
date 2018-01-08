@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/cli"
-	"github.com/micro/go-micro/cmd"
+  "micro/go-micro/cmd"
 	clic "github.com/micro/micro/internal/command/cli"
 
 	"golang.org/x/net/context"

@@ -2,7 +2,7 @@ package run
 
 import (
 	"github.com/micro/go-micro"
-	"github.com/micro/go-micro/errors"
+  "micro/go-micro/errors"
 	gorun "github.com/micro/go-run"
 	"golang.org/x/net/context"
 

@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	ccli "github.com/micro/cli"
-	"github.com/micro/go-micro/cmd"
+  "micro/go-micro/cmd"
 	"github.com/micro/micro/api"
 	"github.com/micro/micro/bot"
 	"github.com/micro/micro/car"

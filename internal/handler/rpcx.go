@@ -9,10 +9,10 @@ import (
 
 	"github.com/micro/go-api"
 	"github.com/micro/go-api/router"
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/client"
+  "micro/go-micro/cmd"
+  "micro/go-micro/errors"
+  "micro/go-micro/selector"
 	proto "github.com/micro/micro/internal/handler/proto"
 	"github.com/micro/micro/internal/helper"
 )
