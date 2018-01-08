@@ -3,7 +3,7 @@ package cmd
 import (
 	"strings"
 
-	ccli "github.com/micro/cli"
+  ccli "micro/cli"
   "micro/go-micro/cmd"
   "micro/micro/api"
   "micro/micro/bot"

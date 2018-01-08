@@ -55,7 +55,7 @@ package main
 
 import (
 	"log"
-	"github.com/micro/cli"
+	"micro/cli"
 	"micro/micro/plugin"
 )
 

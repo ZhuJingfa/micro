@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
 

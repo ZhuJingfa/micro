@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/micro/cli"
-	"github.com/micro/go-bot/command"
-	"github.com/micro/go-bot/input"
+  "micro/cli"
+  "micro/go-bot/command"
+  "micro/go-bot/input"
 
   "micro/go-micro"
   "micro/go-micro/registry/mock"

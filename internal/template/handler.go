@@ -20,7 +20,7 @@ func (e *Example) Call(ctx context.Context, req *example.Request, rsp *example.R
 	HandlerSRV = `package handler
 
 import (
-	"github.com/micro/go-log"
+	"micro/go-log"
 
 	example "{{.Dir}}/proto/example"
 	"golang.org/x/net/context"
@@ -69,7 +69,7 @@ func (e *Example) PingPong(ctx context.Context, stream example.Example_PingPongS
 	SubscriberFNC = `package subscriber
 
 import (
-	"github.com/micro/go-log"
+	"micro/go-log"
 
 	example "{{.Dir}}/proto/example"
 	"golang.org/x/net/context"
@@ -86,7 +86,7 @@ func (e *Example) Handle(ctx context.Context, msg *example.Message) error {
 	SubscriberSRV = `package subscriber
 
 import (
-	"github.com/micro/go-log"
+	"micro/go-log"
 
 	example "{{.Dir}}/proto/example"
 	"golang.org/x/net/context"
@@ -109,12 +109,12 @@ func Handler(ctx context.Context, msg *example.Message) error {
 
 import (
 	"encoding/json"
-	"github.com/micro/go-log"
+	"micro/go-log"
 
 	"{{.Dir}}/client"
 	"micro/go-micro/errors"
-	api "github.com/micro/go-api/proto"
-	example "github.com/micro/examples/template/srv/proto/example"
+	api "micro/go-api/proto"
+	example "micro/examples/template/srv/proto/example"
 
 	"golang.org/x/net/context"
 )
@@ -166,7 +166,7 @@ import (
 	"time"
 
 	"micro/go-micro/client"
-	example "github.com/micro/examples/template/srv/proto/example"
+	example "micro/examples/template/srv/proto/example"
 
 	"golang.org/x/net/context"
 )

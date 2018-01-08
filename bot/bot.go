@@ -10,17 +10,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/go-micro"
 
-	"github.com/micro/go-bot/command"
-	"github.com/micro/go-bot/input"
-	_ "github.com/micro/go-bot/input/hipchat"
-	_ "github.com/micro/go-bot/input/slack"
-	"github.com/micro/go-log"
+  "micro/go-bot/command"
+  "micro/go-bot/input"
+  _ "micro/go-bot/input/hipchat"
+  _ "micro/go-bot/input/slack"
+  "micro/go-log"
   botc "micro/micro/internal/command/bot"
 
-	proto "github.com/micro/go-bot/proto"
+  proto "micro/go-bot/proto"
 
 	"golang.org/x/net/context"
 )

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/micro/go-api"
-	"github.com/micro/go-api/router"
+  "micro/go-api"
+  "micro/go-api/router"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
   rmock "micro/go-micro/registry/mock"

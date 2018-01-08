@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/micro/cli"
-	"github.com/micro/go-log"
+  "micro/cli"
+  "micro/go-log"
   "micro/go-micro"
   "micro/go-micro/client"
 
-	"github.com/micro/go-run"
-	"github.com/micro/go-run/runtime/go"
+  "micro/go-run"
+  "micro/go-run/runtime/go"
   proto "micro/micro/run/proto"
 
 	"golang.org/x/net/context"

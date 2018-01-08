@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/micro/cli"
+  "micro/cli"
   tmpl "micro/micro/internal/template"
 )
 

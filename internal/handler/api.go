@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	goapi "github.com/micro/go-api"
-	"github.com/micro/go-api/router"
+	goapi "micro/go-api"
+	"micro/go-api/router"
   "micro/go-micro/client"
   "micro/go-micro/cmd"
   "micro/go-micro/errors"

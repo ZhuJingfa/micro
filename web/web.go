@@ -13,9 +13,9 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/micro/cli"
-	"github.com/micro/go-api/server"
-	"github.com/micro/go-log"
+	"micro/cli"
+	"micro/go-api/server"
+	"micro/go-log"
 	"micro/go-micro"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"

@@ -3,7 +3,7 @@ package run
 import (
   "micro/go-micro"
   "micro/go-micro/errors"
-	gorun "github.com/micro/go-run"
+  gorun "micro/go-run"
 	"golang.org/x/net/context"
 
   proto "micro/micro/run/proto"

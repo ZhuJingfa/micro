@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/go-micro/metadata"
 
 	"golang.org/x/net/context"
