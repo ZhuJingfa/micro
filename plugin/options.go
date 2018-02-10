@@ -1,7 +1,7 @@
 package plugin
 
 import (
-  "micro/cli"
+	"micro/cli"
 )
 
 // Options are used as part of a new plugin

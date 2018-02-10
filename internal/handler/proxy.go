@@ -10,9 +10,9 @@ import (
 	"net/url"
 	"strings"
 
-  "micro/go-api"
-  "micro/go-api/router"
-  "micro/go-micro/selector"
+	"micro/go-api"
+	"micro/go-api/router"
+	"micro/go-micro/selector"
 )
 
 type proxy struct {

@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-  "micro/cli"
-  "micro/go-micro/cmd"
-  clic "micro/micro/internal/command/cli"
+	"micro/cli"
+	"micro/go-micro/cmd"
+	clic "micro/micro/internal/command/cli"
 
 	"golang.org/x/net/context"
 )

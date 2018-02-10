@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-  "micro/go-api"
-  "micro/go-api/router"
-  "micro/go-micro/errors"
+	"micro/go-api"
+	"micro/go-api/router"
+	"micro/go-micro/errors"
 )
 
 type metaHandler struct {

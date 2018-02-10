@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-  "micro/cli"
-  "micro/go-micro/metadata"
+	"micro/cli"
+	"micro/go-micro/metadata"
 
 	"golang.org/x/net/context"
 )

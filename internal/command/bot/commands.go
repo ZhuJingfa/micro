@@ -4,9 +4,9 @@ import (
 	"strings"
 	"time"
 
-  "micro/cli"
-  "micro/go-bot/command"
-  clic "micro/micro/internal/command/cli"
+	"micro/cli"
+	"micro/go-bot/command"
+	clic "micro/micro/internal/command/cli"
 )
 
 // Echo returns the same message

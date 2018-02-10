@@ -1,10 +1,10 @@
 package run
 
 import (
-  "micro/go-micro/errors"
 	"golang.org/x/net/context"
+	"micro/go-micro/errors"
 
-  proto "micro/micro/run/proto"
+	proto "micro/micro/run/proto"
 )
 
 type subHandler struct {

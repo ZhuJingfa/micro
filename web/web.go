@@ -13,19 +13,19 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
+	"github.com/serenize/snaker"
 	"micro/cli"
 	"micro/go-api/server"
 	"micro/go-log"
 	"micro/go-micro"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
-  "micro/go-micro/selector"
-  "micro/go-micro/selector/cache"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
+	"micro/go-micro/selector"
+	"micro/go-micro/selector/cache"
 	"micro/micro/internal/handler"
 	"micro/micro/internal/helper"
 	"micro/micro/internal/stats"
 	"micro/micro/plugin"
-	"github.com/serenize/snaker"
 )
 
 var (

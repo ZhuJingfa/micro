@@ -1,7 +1,7 @@
 package main
 
 import (
-  "micro/micro/cmd"
+	"micro/micro/cmd"
 )
 
 func main() {

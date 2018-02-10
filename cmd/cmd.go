@@ -3,16 +3,16 @@ package cmd
 import (
 	"strings"
 
-  ccli "micro/cli"
-  "micro/go-micro/cmd"
-  "micro/micro/api"
-  "micro/micro/bot"
-  "micro/micro/car"
-  "micro/micro/cli"
-  "micro/micro/new"
-  "micro/micro/plugin"
-  "micro/micro/run"
-  "micro/micro/web"
+	ccli "micro/cli"
+	"micro/go-micro/cmd"
+	"micro/micro/api"
+	"micro/micro/bot"
+	"micro/micro/car"
+	"micro/micro/cli"
+	"micro/micro/new"
+	"micro/micro/plugin"
+	"micro/micro/run"
+	"micro/micro/web"
 )
 
 var (

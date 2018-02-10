@@ -8,12 +8,12 @@ import (
 	"net/http/httptest"
 	"testing"
 
-  "micro/go-micro/client"
-  "micro/go-micro/cmd"
-  "micro/go-micro/metadata"
-  rmock "micro/go-micro/registry/mock"
-  "micro/go-micro/selector"
-  "micro/go-micro/server"
+	"micro/go-micro/client"
+	"micro/go-micro/cmd"
+	"micro/go-micro/metadata"
+	rmock "micro/go-micro/registry/mock"
+	"micro/go-micro/selector"
+	"micro/go-micro/server"
 
 	"golang.org/x/net/context"
 )

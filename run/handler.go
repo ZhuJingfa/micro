@@ -1,12 +1,12 @@
 package run
 
 import (
-  "micro/go-micro"
-  "micro/go-micro/errors"
-  gorun "micro/go-run"
 	"golang.org/x/net/context"
+	"micro/go-micro"
+	"micro/go-micro/errors"
+	gorun "micro/go-run"
 
-  proto "micro/micro/run/proto"
+	proto "micro/micro/run/proto"
 )
 
 type runtimeHandler struct {

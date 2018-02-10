@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 func addService(w http.ResponseWriter, r *http.Request) {

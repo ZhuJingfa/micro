@@ -2,7 +2,7 @@
 package cli
 
 import (
-  "micro/cli"
+	"micro/cli"
 )
 
 func registryCommands() []cli.Command {

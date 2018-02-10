@@ -10,8 +10,8 @@ import (
 	"strings"
 	"text/template"
 
-  "micro/cli"
-  tmpl "micro/micro/internal/template"
+	"micro/cli"
+	tmpl "micro/micro/internal/template"
 )
 
 type config struct {

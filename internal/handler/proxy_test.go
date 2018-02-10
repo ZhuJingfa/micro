@@ -8,11 +8,11 @@ import (
 	"strings"
 	"testing"
 
-  "micro/go-api"
-  "micro/go-api/router"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
-  rmock "micro/go-micro/registry/mock"
+	"micro/go-api"
+	"micro/go-api/router"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
+	rmock "micro/go-micro/registry/mock"
 )
 
 func testProxy(t *testing.T, path, service string) {

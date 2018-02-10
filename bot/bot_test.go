@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-  "micro/cli"
-  "micro/go-bot/command"
-  "micro/go-bot/input"
+	"micro/cli"
+	"micro/go-bot/command"
+	"micro/go-bot/input"
 
-  "micro/go-micro"
-  "micro/go-micro/registry/mock"
+	"micro/go-micro"
+	"micro/go-micro/registry/mock"
 )
 
 type testInput struct {

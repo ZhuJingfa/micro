@@ -5,10 +5,10 @@ import (
 
 	goapi "micro/go-api"
 	"micro/go-api/router"
-  "micro/go-micro/client"
-  "micro/go-micro/cmd"
-  "micro/go-micro/errors"
-  "micro/go-micro/selector"
+	"micro/go-micro/client"
+	"micro/go-micro/cmd"
+	"micro/go-micro/errors"
+	"micro/go-micro/selector"
 	api "micro/micro/api/proto"
 	"micro/micro/internal/helper"
 )

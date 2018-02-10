@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-  "micro/go-log"
-  "micro/go-micro/broker"
-  "micro/go-micro/cmd"
+	"micro/go-log"
+	"micro/go-micro/broker"
+	"micro/go-micro/cmd"
 )
 
 const (

@@ -8,16 +8,16 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-  "micro/cli"
-  "micro/go-api"
-  "micro/go-api/router"
-  "micro/go-api/server"
-  "micro/go-log"
-  "micro/go-micro"
-  "micro/micro/internal/handler"
-  "micro/micro/internal/helper"
-  "micro/micro/internal/stats"
-  "micro/micro/plugin"
+	"micro/cli"
+	"micro/go-api"
+	"micro/go-api/router"
+	"micro/go-api/server"
+	"micro/go-log"
+	"micro/go-micro"
+	"micro/micro/internal/handler"
+	"micro/micro/internal/helper"
+	"micro/micro/internal/stats"
+	"micro/micro/plugin"
 )
 
 var (

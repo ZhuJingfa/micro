@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-  "micro/go-run"
+	"micro/go-run"
 )
 
 type manager struct {

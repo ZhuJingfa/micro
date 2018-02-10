@@ -36,9 +36,9 @@ import fmt "fmt"
 import math "math"
 
 import (
-  client "micro/go-micro/client"
-  server "micro/go-micro/server"
 	context "golang.org/x/net/context"
+	client "micro/go-micro/client"
+	server "micro/go-micro/server"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-  "micro/cli"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
+	"micro/cli"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 
-  proto "micro/go-micro/server/debug/proto"
+	proto "micro/go-micro/server/debug/proto"
 
 	"github.com/serenize/snaker"
 
